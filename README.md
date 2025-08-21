@@ -1,1 +1,1 @@
-# Pizza_Sales_Analysis
+This project presents a comprehensive sales analysis dashboard for a fictional pizza store, built using Power BI. It simulates a real-world business intelligence scenario by integrating data from SQL Server, transforming it, and visualizing key performance indicators (KPIs) to support data-driven decision-making.
